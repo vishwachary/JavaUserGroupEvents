@@ -8,11 +8,11 @@
 		<version>3.3.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.javausergroup</groupId>
-	<artifactId>JavaUserGroupEvents</artifactId>
+	<groupId>com.student.course</groupId>
+	<artifactId>student-course-management</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>JavaUserGroupEvents</name>
-	<description>single project that demonstrates the skills interviewers look for — REST APIs, relational data modeling, authentication, layered design, pagination, validation, and clean code — this Voucher Management System (VMS) is perfect. Build it, understand it end-to-end, and you’ll be able to confidently explain architecture, trade-offs, and design decisions during interviews.</description>
+	<name>student-course-management</name>
+	<description>single project that demonstrates the skills interviewers look for — REST APIs, relational data modeling, authentication, layered design, pagination, validation, and clean code —Build it, understand it end-to-end, and you’ll be able to confidently explain architecture, trade-offs, and design decisions during interviews.</description>
 	<url/>
 	<licenses>
 		<license/>
@@ -33,10 +33,6 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-jpa</artifactId>
-		</dependency>
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-security</artifactId>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
